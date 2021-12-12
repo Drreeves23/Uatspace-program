@@ -1,0 +1,39 @@
+body {
+    background-color: rebeccapurple;
+    background-image: url(pulsar.jpeg);
+}
+h3 {
+    background-color: rebeccapurple;
+     text-align: center;
+}
+h1 {
+    background-color: rebeccapurple;
+     text-align: center;
+}
+div {
+    background-color: rebeccapurple;
+     text-align: center;
+}
+.funWithButtons {
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: lightblue;
+}
+
+.crapsWithButtons {
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: rebeccapurple;
+}
+
+.soundButton {
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: lightblue;
+}

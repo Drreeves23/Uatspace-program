@@ -1,18 +1,9 @@
-.loginID {
-    font-weight: bolder;
+#wrapper { width: 500px; height: 500px; margin: 0 auto; }
+#wrapper2 {border-style: double; border-radius: 10px; height: 500px; }
+.texty {
+    font-weight: bolder; color: white;
 }
 
 body {
-    background-color: rgb(35, 45, 55);
-}
-
-p {
-  color: white;
-}
-form {
-    color: white;
-}
-
-h1 {
-    color: white;
+    background-color: teal; background-image: url("pulsar.jpeg"); color: white;
 }
